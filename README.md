@@ -90,4 +90,3 @@ Text data needs to be processed and tokenized before we can use it for machine l
 
 **Removing Stop Words and Stemming:** English has many common words like 'is', 'an', 'the', etc., which do not add much value when it comes to understanding the meaning of the text. These are called stop words and we removed them. Next, we performed a process called 'stemming'. This is where words are reduced to their base or root form. For example, 'driving', 'drives', 'drove' are variations of the word 'drive'.
 
-These steps help us clean the text data, making it ready for our machine learning and deep learning models.
