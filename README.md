@@ -81,7 +81,7 @@ The first step in our analysis involved cleaning the data. We removed unnecessar
 
 The 'fake' news is labeled as '1' with 10413 instances, and the 'true' news labeled as '0' with 10387 instances, which provides us a balanced dataset for our models.
 
-## Text Pre-processing
+### Text Pre-processing
 Text data needs to be processed and tokenized before we can use it for machine learning algorithms. Here is a plain language explanation of the text processing steps we followed:
 
 **Removing Non-Alpha Characters:** We first cleaned up the text by removing any characters that aren't alphabets. This includes numbers, punctuation, and special characters.
